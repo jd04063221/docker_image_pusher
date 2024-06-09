@@ -1,9 +1,8 @@
-#centos
-#dezhao/komga_cn
-#dezhao/lanraragi_cn
-#dezhao/mango_cn
-#gotson/komga
-# hectorain/reader
+centos
+dezhao/komga_cn
+dezhao/lanraragi_cn
+dezhao/mango_cn
+gotson/komga
 jellyfin/jellyfin
 linuxserver/calibre-web
 lkw199711/smanga
