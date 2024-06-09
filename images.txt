@@ -3,7 +3,7 @@ dezhao/komga_cn
 dezhao/lanraragi_cn
 dezhao/mango_cn
 gotson/komga
-hectorain/reader
+# hectorain/reader
 jellyfin/jellyfin
 linuxserver/calibre-web
 lkw199711/smanga
