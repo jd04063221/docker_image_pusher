@@ -1,8 +1,8 @@
-centos
-dezhao/komga_cn
-dezhao/lanraragi_cn
-dezhao/mango_cn
-gotson/komga
+#centos
+#dezhao/komga_cn
+#dezhao/lanraragi_cn
+#dezhao/mango_cn
+#gotson/komga
 # hectorain/reader
 jellyfin/jellyfin
 linuxserver/calibre-web
